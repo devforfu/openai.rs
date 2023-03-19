@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "openai",
+    "openapi_definition",
+    "rust_client",
+]
